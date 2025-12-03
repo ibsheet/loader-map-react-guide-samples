@@ -1,0 +1,57 @@
+
+[
+    {
+        "id": "jejudo",
+        "name": "제주특별자치도",
+        "name-kr": "제주특별자치도",
+        "name-en": "Jeju-do"
+    },
+    {
+        "id": "gyeongsangdo",
+        "name": "경상도",
+        "name-kr": "경상도",
+        "name-en": "Gyeongsang-do"
+    },
+    {
+        "id": "jeollado",
+        "name": "전라도",
+        "name-kr": "전라도",
+        "name-en": "Jeolla-do"
+    },
+    {
+        "id": "chungcheongdo",
+        "name": "충청도",
+        "name-kr": "충청도",
+        "name-en": "Chungcheong-do"
+    },
+    {
+        "id": "gangwondo",
+        "name": "강원특별자치도",
+        "name-kr": "강원특별자치도",
+        "name-en": "Gangwon-do"
+    },
+    {
+        "id": "gyeonggido",
+        "name": "경기도",
+        "name-kr": "경기도",
+        "name-en": "Gyeonggi-do"
+    },
+    {
+        "id": "incheon",
+        "name": "인천광역시",
+        "name-kr": "인천광역시",
+        "name-en": "Incheon"
+    },
+    {
+        "id": "seoul",
+        "name": "서울특별시",
+        "name-kr": "서울특별시",
+        "name-en": "Seoul"
+    },
+    {
+        "id": "ulleungdo",
+        "name": "울릉도",
+        "name-en": "Ulleung-do",
+        "name-kr": "울릉도"
+    }
+]

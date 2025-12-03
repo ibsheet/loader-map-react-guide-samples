@@ -1,0 +1,402 @@
+[
+    {
+        "id": "KR11110",
+        "name": "종로구",
+        "name-kr": "종로구",
+        "name-en": "Jongno-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#BFCFDA"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#BFCFDA"
+            }
+        }
+    },
+    {
+        "id": "KR11140",
+        "name": "중구",
+        "name-kr": "중구",
+        "name-en": "Jung-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#BFCFDA"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#BFCFDA"
+            }
+        }
+    },
+    {
+        "id": "KR11170",
+        "name": "용산구",
+        "name-kr": "용산구",
+        "name-en": "Yongsan-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#BFCFDA"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#BFCFDA"
+            }
+        }
+    },
+    {
+        "id": "KR11200",
+        "name": "성동구",
+        "name-kr": "성동구",
+        "name-en": "Seongdong-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        }
+    },
+    {
+        "id": "KR11215",
+        "name": "광진구",
+        "name-kr": "광진구",
+        "name-en": "Gwangjin-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        }
+    },
+    {
+        "id": "KR11230",
+        "name": "동대문구",
+        "name-kr": "동대문구",
+        "name-en": "Dongdaemun-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        }
+    },
+    {
+        "id": "KR11260",
+        "name": "중랑구",
+        "name-kr": "중랑구",
+        "name-en": "Jungnang-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#B2BBC8"
+            }
+        }
+    },
+    {
+        "id": "KR11290",
+        "name": "성북구",
+        "name-kr": "성북구",
+        "name-en": "Seongbuk-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR11305",
+        "name": "강북구",
+        "name-kr": "강북구",
+        "name-en": "Gangbuk-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR11320",
+        "name": "도봉구",
+        "name-kr": "도봉구",
+        "name-en": "Dobong-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR11350",
+        "name": "노원구",
+        "name-kr": "노원구",
+        "name-en": "Nowon-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#D0E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR11380",
+        "name": "은평구",
+        "name-kr": "은평구",
+        "name-en": "Eunpyeong-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#B9C3CF"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#B9C3CF"
+            }
+        }
+    },
+    {
+        "id": "KR11410",
+        "name": "서대문구",
+        "name-kr": "서대문구",
+        "name-en": "Seodaemun-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#B9C3CF"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#B9C3CF"
+            }
+        }
+    },
+    {
+        "id": "KR11440",
+        "name": "마포구",
+        "name-kr": "마포구",
+        "name-en": "Mapo-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#B9C3CF"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#B9C3CF"
+            }
+        }
+    },
+    {
+        "id": "KR11560",
+        "name": "영등포구",
+        "name-kr": "영등포구",
+        "name-en": "Yeongdeungpo-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        }
+    },
+    {
+        "id": "KR11470",
+        "name": "양천구",
+        "name-kr": "양천구",
+        "name-en": "Yangcheon-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        }
+    },
+    {
+        "id": "KR11500",
+        "name": "강서구",
+        "name-kr": "강서구",
+        "name-en": "Gangseo-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        }
+    },
+    {
+        "id": "KR11530",
+        "name": "구로구",
+        "name-kr": "구로구",
+        "name-en": "Guro-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#C9DFEB"
+            }
+        }
+    },
+    {
+        "id": "KR11545",
+        "name": "금천구",
+        "name-kr": "금천구",
+        "name-en": "Geumcheon-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#D8E9F4"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#D8E9F4"
+            }
+        }
+    },
+    {
+        "id": "KR11590",
+        "name": "동작구",
+        "name-kr": "동작구",
+        "name-en": "Dongjak-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#D8E9F4"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#D8E9F4"
+            }
+        }
+    },
+    {
+        "id": "KR11620",
+        "name": "관악구",
+        "name-kr": "관악구",
+        "name-en": "Gwanak-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#D8E9F4"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#D8E9F4"
+            }
+        }
+    },
+    {
+        "id": "KR11650",
+        "name": "서초구",
+        "name-kr": "서초구",
+        "name-en": "Seocho-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#C8DBE5"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#C8DBE5"
+            }
+        }
+    },
+    {
+        "id": "KR11680",
+        "name": "강남구",
+        "name-kr": "강남구",
+        "name-en": "Gangnam-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#C8DBE5"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#C8DBE5"
+            }
+        }
+    },
+    {
+        "id": "KR11710",
+        "name": "송파구",
+        "name-kr": "송파구",
+        "name-en": "Songpa-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#BCCAD5"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#BCCAD5"
+            }
+        }
+    },
+    {
+        "id": "KR11740",
+        "name": "강동구",
+        "name-kr": "강동구",
+        "name-en": "Gangdong-gu",
+        "hover": {
+            "style": {
+                "backgroundColor" : "#BCCAD5"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor" : "#BCCAD5"
+            }
+        }
+    }
+]

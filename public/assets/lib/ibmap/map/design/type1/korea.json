@@ -1,0 +1,105 @@
+
+[
+    {
+        "id": "KR50000",
+        "name": "제주특별자치도",
+        "name-kr": "제주특별자치도",
+        "name-en": "Jeju-do"
+    },
+    {
+        "id": "KR48000",
+        "name": "경상남도",
+        "name-kr": "경상남도",
+        "name-en": "Gyeongsangnam-do"
+    },
+    {
+        "id": "KR47000",
+        "name": "경상북도",
+        "name-kr": "경상북도",
+        "name-en": "Gyeongsangbuk-do"
+    },
+    {
+        "id": "KR46000",
+        "name": "전라남도",
+        "name-kr": "전라남도",
+        "name-en": "Jeollanam-do"
+    },
+    {
+        "id": "KR52000",
+        "name": "전라북도",
+        "name-kr": "전라북도",
+        "name-en": "Jeollabuk-do"
+    },
+    {
+        "id": "KR44000",
+        "name": "충청남도",
+        "name-kr": "충청남도",
+        "name-en": "Chungcheongnam-do"
+    },
+    {
+        "id": "KR43000",
+        "name": "충청북도",
+        "name-kr": "충청북도",
+        "name-en": "Chungcheongbuk-do"
+    },
+    {
+        "id": "KR51000",
+        "name": "강원특별자치도",
+        "name-kr": "강원특별자치도",
+        "name-en": "Gangwon-do"
+    },
+    {
+        "id": "KR41000",
+        "name": "경기도",
+        "name-kr": "경기도",
+        "name-en": "Gyeonggi-do"
+    },
+    {
+        "id": "KR36000",
+        "name": "세종특별자치시",
+        "name-kr": "세종특별자치시",
+        "name-en": "Sejong-si"
+    },
+    {
+        "id": "KR31000",
+        "name": "울산광역시",
+        "name-kr": "울산광역시",
+        "name-en": "Ulsan"
+    },
+    {
+        "id": "KR30000",
+        "name": "대전광역시",
+        "name-kr": "대전광역시",
+        "name-en": "Daejeon"
+    },
+    {
+        "id": "KR29000",
+        "name": "광주광역시",
+        "name-kr": "광주광역시",
+        "name-en": "Gwangju"
+    },
+    {
+        "id": "KR28000",
+        "name": "인천광역시",
+        "name-kr": "인천광역시",
+        "name-en": "Incheon"
+    },
+    {
+        "id": "KR27000",
+        "name": "대구광역시",
+        "name-kr": "대구광역시",
+        "name-en": "Daegu"
+    },
+    {
+        "id": "KR26000",
+        "name": "부산광역시",
+        "name-kr": "부산광역시",
+        "name-en": "Busan"
+    },
+    {
+        "id": "KR11000",
+        "name": "서울특별시",
+        "name-kr": "서울특별시",
+        "name-en": "Seoul"
+    }
+]

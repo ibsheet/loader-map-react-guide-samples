@@ -1,0 +1,98 @@
+[
+    {
+        "id": "north-america",
+        "name": "북아메리카",
+        "name-kr": "북아메리카",
+        "name-en": "North America",
+        "select": {
+            "style": {
+                "backgroundColor": "#D0E1EB"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#D0E1EB"
+            }
+        }
+    },
+    {
+        "id": "south-america",
+        "name": "남아메리카",
+        "name-kr": "남아메리카",
+        "name-en": "South-america",
+        "select": {
+            "style": {
+                "backgroundColor": "#B9C3CF"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#B9C3CF"
+            }
+        }
+    },
+    {
+        "id": "europe",
+        "name": "유럽",
+        "name-kr": "유럽",
+        "name-en": "Europe",
+        "select": {
+            "style": {
+                "backgroundColor": "#BFCFDA"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#BFCFDA"
+            }
+        }
+    },
+    {
+        "id": "africa",
+        "name": "아프리카",
+        "name-kr": "아프리카",
+        "name-en": "Africa",
+        "select": {
+            "style": {
+                "backgroundColor": "#C8DBE5"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#C8DBE5"
+            }
+        }
+    },
+    {
+        "id": "asia",
+        "name": "아시아",
+        "name-kr": "아시아",
+        "name-en": "Asia",
+        "select": {
+            "style": {
+                "backgroundColor": "#D8E9F4"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#D8E9F4"
+            }
+        }
+    },
+    {
+        "id": "oceania",
+        "name": "오세아니아",
+        "name-kr": "오세아니아",
+        "name-en": "Oceania",
+        "select": {
+            "style": {
+                "backgroundColor": "#B9C3CF"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#B9C3CF"
+            }
+        }
+    }
+]

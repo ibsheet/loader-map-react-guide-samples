@@ -1,0 +1,152 @@
+[
+    {
+        "id": "KR11110",
+        "name": "종로구",
+        "name-kr": "종로구",
+        "name-en": "Jongno-gu"
+    },
+    {
+        "id": "KR11140",
+        "name": "중구",
+        "name-kr": "중구",
+        "name-en": "Jung-gu"
+    },
+    {
+        "id": "KR11170",
+        "name": "용산구",
+        "name-kr": "용산구",
+        "name-en": "Yongsan-gu"
+    },
+    {
+        "id": "KR11200",
+        "name": "성동구",
+        "name-kr": "성동구",
+        "name-en": "Seongdong-gu"
+    },
+    {
+        "id": "KR11215",
+        "name": "광진구",
+        "name-kr": "광진구",
+        "name-en": "Gwangjin-gu"
+    },
+    {
+        "id": "KR11230",
+        "name": "동대문구",
+        "name-kr": "동대문구",
+        "name-en": "Dongdaemun-gu"
+    },
+    {
+        "id": "KR11260",
+        "name": "중랑구",
+        "name-kr": "중랑구",
+        "name-en": "Jungnang-gu"
+    },
+    {
+        "id": "KR11290",
+        "name": "성북구",
+        "name-kr": "성북구",
+        "name-en": "Seongbuk-gu"
+    },
+    {
+        "id": "KR11305",
+        "name": "강북구",
+        "name-kr": "강북구",
+        "name-en": "Gangbuk-gu"
+    },
+    {
+        "id": "KR11320",
+        "name": "도봉구",
+        "name-kr": "도봉구",
+        "name-en": "Dobong-gu"
+    },
+    {
+        "id": "KR11350",
+        "name": "노원구",
+        "name-kr": "노원구",
+        "name-en": "Nowon-gu"
+    },
+    {
+        "id": "KR11380",
+        "name": "은평구",
+        "name-kr": "은평구",
+        "name-en": "Eunpyeong-gu"
+    },
+    {
+        "id": "KR11410",
+        "name": "서대문구",
+        "name-kr": "서대문구",
+        "name-en": "Seodaemun-gu"
+    },
+    {
+        "id": "KR11440",
+        "name": "마포구",
+        "name-kr": "마포구",
+        "name-en": "Mapo-gu"
+    },
+    {
+        "id": "KR11560",
+        "name": "영등포구",
+        "name-kr": "영등포구",
+        "name-en": "Yeongdeungpo-gu"
+    },
+    {
+        "id": "KR11470",
+        "name": "양천구",
+        "name-kr": "양천구",
+        "name-en": "Yangcheon-gu"
+    },
+    {
+        "id": "KR11500",
+        "name": "강서구",
+        "name-kr": "강서구",
+        "name-en": "Gangseo-gu"
+    },
+    {
+        "id": "KR11530",
+        "name": "구로구",
+        "name-kr": "구로구",
+        "name-en": "Guro-gu"
+    },
+    {
+        "id": "KR11545",
+        "name": "금천구",
+        "name-kr": "금천구",
+        "name-en": "Geumcheon-gu"
+    },
+    {
+        "id": "KR11590",
+        "name": "동작구",
+        "name-kr": "동작구",
+        "name-en": "Dongjak-gu"
+    },
+    {
+        "id": "KR11620",
+        "name": "관악구",
+        "name-kr": "관악구",
+        "name-en": "Gwanak-gu"
+    },
+    {
+        "id": "KR11650",
+        "name": "서초구",
+        "name-kr": "서초구",
+        "name-en": "Seocho-gu"
+    },
+    {
+        "id": "KR11680",
+        "name": "강남구",
+        "name-kr": "강남구",
+        "name-en": "Gangnam-gu"
+    },
+    {
+        "id": "KR11710",
+        "name": "송파구",
+        "name-kr": "송파구",
+        "name-en": "Songpa-gu"
+    },
+    {
+        "id": "KR11740",
+        "name": "강동구",
+        "name-kr": "강동구",
+        "name-en": "Gangdong-gu"
+    }
+]

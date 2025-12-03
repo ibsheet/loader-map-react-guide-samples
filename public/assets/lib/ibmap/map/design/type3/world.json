@@ -1,0 +1,38 @@
+[
+    {
+        "id": "north-america",
+        "name": "북아메리카",
+        "name-kr": "북아메리카",
+        "name-en": "North America"
+    },
+    {
+        "id": "south-america",
+        "name": "남아메리카",
+        "name-kr": "남아메리카",
+        "name-en": "South-america"
+    },
+    {
+        "id": "europe",
+        "name": "유럽",
+        "name-kr": "유럽",
+        "name-en": "Europe"
+    },
+    {
+        "id": "africa",
+        "name": "아프리카",
+        "name-kr": "아프리카",
+        "name-en": "Africa"
+    },
+    {
+        "id": "asia",
+        "name": "아시아",
+        "name-kr": "아시아",
+        "name-en": "Asia"
+    },
+    {
+        "id": "oceania",
+        "name": "오세아니아",
+        "name-kr": "오세아니아",
+        "name-en": "Oceania"
+    }
+]

@@ -1,0 +1,275 @@
+
+[
+    {
+        "id": "KR50000",
+        "name": "제주특별자치도",
+        "name-kr": "제주특별자치도",
+        "name-en": "Jeju-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#B8CBDF"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#B8CBDF"
+            }
+        }
+    },
+    {
+        "id": "KR48000",
+        "name": "경상남도",
+        "name-kr": "경상남도",
+        "name-en": "Gyeongsangnam-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        }
+    },
+    {
+        "id": "KR47000",
+        "name": "경상북도",
+        "name-kr": "경상북도",
+        "name-en": "Gyeongsangbuk-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        }
+    },
+    {
+        "id": "KR46000",
+        "name": "전라남도",
+        "name-kr": "전라남도",
+        "name-en": "Jeollanam-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        }
+    },
+    {
+        "id": "KR52000",
+        "name": "전라북도",
+        "name-kr": "전라북도",
+        "name-en": "Jeollabuk-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        }
+    },
+    {
+        "id": "KR44000",
+        "name": "충청남도",
+        "name-kr": "충청남도",
+        "name-en": "Chungcheongnam-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR43000",
+        "name": "충청북도",
+        "name-kr": "충청북도",
+        "name-en": "Chungcheongbuk-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR51000",
+        "name": "강원특별자치도",
+        "name-kr": "강원특별자치도",
+        "name-en": "Gangwon-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#C6CED7"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#C6CED7"
+            }
+        }
+    },
+    {
+        "id": "KR41000",
+        "name": "경기도",
+        "name-kr": "경기도",
+        "name-en": "Gyeonggi-do",
+        "select": {
+            "style": {
+                "backgroundColor": "#C0C8D2"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#C0C8D2"
+            }
+        }
+    },
+    {
+        "id": "KR36000",
+        "name": "세종특별자치시",
+        "name-kr": "세종특별자치시",
+        "name-en": "Sejong-si",
+        "hover": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        },
+        "select": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR31000",
+        "name": "울산광역시",
+        "name-kr": "울산광역시",
+        "name-en": "Ulsan",
+        "select": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        }
+    },
+    {
+        "id": "KR30000",
+        "name": "대전광역시",
+        "name-kr": "대전광역시",
+        "name-en": "Daejeon",
+        "select": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#D2E1EB"
+            }
+        }
+    },
+    {
+        "id": "KR29000",
+        "name": "광주광역시",
+        "name-kr": "광주광역시",
+        "name-en": "Gwangju",
+        "select": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        }
+    },
+    {
+        "id": "KR28000",
+        "name": "인천광역시",
+        "name-kr": "인천광역시",
+        "name-en": "Incheon",
+        "select": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        }
+    },
+    {
+        "id": "KR27000",
+        "name": "대구광역시",
+        "name-kr": "대구광역시",
+        "name-en": "Daegu",
+        "select": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        }
+    },
+    {
+        "id": "KR26000",
+        "name": "부산광역시",
+        "name-kr": "부산광역시",
+        "name-en": "Busan",
+        "select": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#CBD7E0"
+            }
+        }
+    },
+    {
+        "id": "KR11000",
+        "name": "서울특별시",
+        "name-kr": "서울특별시",
+        "name-en": "Seoul",
+        "select": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        },
+        "hover": {
+            "style": {
+                "backgroundColor": "#DFEDF6"
+            }
+        }
+    }
+]
